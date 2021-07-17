@@ -1,0 +1,12 @@
+GT ;G  ;GT ;G  ;GT ;G  ;GT ;G  ;GT ;G  ;GT ;G  ;GTs;G  ;GTs;GT ;G  ;GT ;G  ;GT ;G  ;GT ;G  ;GT ;G  ;GT ;G  ;  
+GT ;G  ;GT ;G  ;GT ;G  ;GT ;G  ;GT ;G  ;GT ;G  ;GH ;G  ;G  ;GT ;G  ;GT ;G  ;GT ;G  ;GT ;G  ;GT ;G  ;GT ;G  ;  
+GT ;G  ;GT ;G  ;GT ;G  ;GT ;G  ;GT ;G  ;GT ;G  ;Ru ;Cu ;Rd ;GT ;G  ;GT ;G  ;GT ;G  ;GT ;G  ;GT ;G  ;GT ;G  ;  
+GFl;GFl;GFl;GFl;GFl;GFl;GFl;GFl;GFl;GFl;GFl;GFl;Ru ;Cu ;Rd ;GFl;GFl;GFl;GFl;GFl;GFl;GFl;GFl;GFl;GFl;GFl;GFl;
+GB ;GB ;GB;GB;GB;GB;GB;GB;GB;GB;GB ;GB;Ru;Cu;Rd;GB ;GB ;GB ;GB ;GB ;GB ;GB ;GB ;GB ;GB ;GB ;GB ;
+GB ;GB ;GB;GB;GB;GB;GB;GB;GB;GB;GB ;GB;Ru;Cu;Rd;GB ;GB ;GB ;GB ;GB ;GB ;GB ;GB ;GB ;GB ;GB ;GB ;
+GB ;GB ;GB;GB;GB;GB;GB;GB;GB;GB;GB ;GB;Ru;Cu;Rd;GB ;GB ;GB ;GB ;GB ;GB ;GB ;GB ;GB ;GB ;GB ;GB ;
+GFl;GFl;GFl;GFl;GFl;GFl;GFl;GFl;GFl;GFl;GFl;GFl;Ru ;Cu ;Rd ;GFl;GFl;GFl;GFl;GFl;GFl;GFl;GFl;GFl;GFl;GFl;GFl;
+G  ;G  ;GH ;G  ;G  ;G  ;G  ;G  ;G  ;G  ;G  ;G  ;Ru ;Cu ;Rd ;G  ;G  ;G  ;G  ;G  ;G  ;G  ;G  ;G  ;G  ;G  ;G  ;
+G  ;G  ;G  ;G  ;G  ;G  ;G  ;G  ;G  ;G  ;G  ;G  ;Ru ;Cu ;Rd ;G  ;G  ;G  ;G  ;G  ;G  ;G  ;G  ;G  ;G  ;G  ;G  ;
+G  ;G  ;G  ;G  ;G  ;G  ;G  ;G  ;G  ;G  ;G  ;G  ;Ru ;Cu ;Rd ;G  ;G  ;G  ;G  ;G  ;G  ;G  ;G  ;G  ;G  ;G  ;G  ;
+G  ;G  ;G  ;G  ;G  ;G  ;G  ;G  ;G  ;G  ;G  ;G  ;Ru ;Cu ;Rd ;G  ;G  ;G  ;G  ;G  ;G  ;G  ;G  ;G  ;G  ;G  ;G  ;
