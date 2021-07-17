@@ -8,3 +8,4 @@ Jeu de type rpg
 
 Touches de déplacements du clavier à paramétrer dans le menu settings (rouage).
 Le jeu possède une musique et un système de craft. Il y a également un mode de combat qui fonctionne en appuyant sur la touche "f".
+Création d'un engine avec différents types d'objet: bouton, entités, constant.
